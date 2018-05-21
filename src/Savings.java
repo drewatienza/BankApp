@@ -1,2 +1,3 @@
-public class Savings {
+public class Savings extends Account {
+
 }
