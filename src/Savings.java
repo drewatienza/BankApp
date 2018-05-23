@@ -1,5 +1,7 @@
 public class Savings extends Account {
     // List properties specific to savings account
+    int depositBoxId;
+    int depositBoxKey;
 
     // Constructor to initialize settings for the savings account
     public Savings(String name) {
